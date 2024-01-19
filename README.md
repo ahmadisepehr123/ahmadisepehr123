@@ -1,10 +1,12 @@
 <h1 align="center">سلام 👋, من سپهرم</h1>
 <h3 align="center">یک برنامه نویس فول استک</h3>
-<img  src="[https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0"](https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg)/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadisepehr123&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadisepehr123" /> </p>
+<br>
+<img src="https://images.hdqwalls.com/download/the-cyber-room-q9-1366x768.jpg"/>
+<br>
+<p align="left"> <img align="right" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0" alt="ahmadisepehr123" /> </p>
 
 
-- 🔭من درحال حاضر رو پروژه ویژن کد کار میکنم **ویژن کد**
+- 🔭من درحال حاضر رو پروژه ویژن کد کار میکنم 
 
 - 👨‍💻 تمام پروژه های من داخل سایت [visioncode.liara.run](visioncode.liara.run)
 
