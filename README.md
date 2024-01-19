@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadisepehr123&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadisepehr123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/sepehrahmadi123?s=09s" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sepehrahmadi123?s=09s?logo=twitter&style=for-the-badge" alt="https://x.com/sepehrahmadi123?s=09s" /></a> </p>
-
 - 🔭من درحال حاضر رو پروژه ویژن کد کار میکنم **ویژن کد**
 
 - 👨‍💻 تمام پروژه های من داخل سایت [visioncode.liara.run](visioncode.liara.run)
