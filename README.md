@@ -2,6 +2,7 @@
 <h3 align="center">یک برنامه نویس فول استک</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadisepehr123&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadisepehr123" /> </p>
+<img align="right" src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0"/>
 
 - 🔭من درحال حاضر رو پروژه ویژن کد کار میکنم **ویژن کد**
 
