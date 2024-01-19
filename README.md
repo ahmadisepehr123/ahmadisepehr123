@@ -4,7 +4,7 @@
 <img src="https://images.hdqwalls.com/download/the-cyber-room-q9-1366x768.jpg"/>
 <br>
 <p align="right">
-  - 🔭من درحال حاضر رو پروژه ویژن کد کار میکنم 
+  - 🔭بنده سرپرست تیم ویژن کد هستم
 </p>
 <p align="right">
 - 👨‍💻 تمام پروژه های من داخل سایت visioncode.liara.run
@@ -13,6 +13,7 @@
 <p align="right">
 - 📫 چگونه با من در ارتباط باشید **sepehrahmadi146@gmail.com**
 </p>
+
 
 
 
