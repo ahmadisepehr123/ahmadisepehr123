@@ -1,6 +1,14 @@
 <h1 align="center">سلام 👋, من سپهرم</h1>
 <h3 align="center">یک برنامه نویس فول استک</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadisepehr123&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadisepehr123" /> </p>
+
+- 🔭من درحال حاضر رو پروژه ویژن کد کار میکنم **ویژن کد**
+
+- 👨‍💻 تمام پروژه های من داخل سایت [visioncode.liara.run](visioncode.liara.run)
+
+- 📫 چگونه با من در ارتباط باشید **sepehrahmadi146@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/sepehrahmadi123?s=09s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sepehrahmadi123?s=09s" height="30" width="40" /></a>
